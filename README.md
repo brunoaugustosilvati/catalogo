@@ -1,2 +1,2 @@
 # catalogo
-Sistema feito para estudo
+Sistema feito para estudo de mongoDB e AWS
