@@ -13,6 +13,6 @@ public class MongoDBConfig {
     }
 
     private MongoDatabaseFactory mongoConfigure() {
-        return new SimpleMongoClientDatabaseFactory("mongodb://user:user@localhost:27017/");
+        return new SimpleMongoClientDatabaseFactory("mongodb://user:user@localhost:27017/catalogo");
     }
 }
